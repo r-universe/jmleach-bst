@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "sim2Dpredictr"]
+	path = sim2Dpredictr
+	url = https://github.com/jmleach-bst/sim2dpredictr
+	shallow = true
+	registered = true
